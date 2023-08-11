@@ -1,0 +1,23 @@
+def calcular_juros_compostos(principal, taxa, periodo, contribuicao_mensal):
+    montante = principal
+    for _ in range(periodo):
+        montante += montante * taxa / 100 + contribuicao_mensal
+    juros = montante - (principal + contribuicao_mensal * periodo)
+    return montante, juros
+
+def main():
+    print("Calculadora de Juros Compostos")
+    
+    principal = float(input("Digite o valor principal: "))
+    taxa = float(input("Digite a taxa de juros mensais (em %): "))
+    periodo = int(input("Digite o número de meses: "))
+    contribuicao_mensal = float(input("Digite o valor da contribuição mensal: "))
+    
+    montante, juros = calcular_juros_compostos(principal, taxa, periodo, contribuicao_mensal)
+    
+    print(f"\nMontante após {periodo} meses: R${montante:.2f}")
+    print(f"Total de contribuições: R${contribuicao_mensal * periodo:.2f}")
+    print(f"Juros acumulados: R${juros:.2f}")
+
+if __name__ == "__main__":
+    main()
