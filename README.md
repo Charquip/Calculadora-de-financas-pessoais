@@ -26,7 +26,7 @@ Dicas Financeiras: Receba dicas e orientações úteis sobre como melhorar suas 
 
 Como Começar:
 
-Clone ou baixe este repositório para o seu computador.
+Copie e cole ou baixe este repositório para o seu computador.
 Siga as instruções em cada seção para usar a calculadora de acordo com suas necessidades.
 Experimente diferentes cenários financeiros para tomar decisões mais informadas.
 Lembre-se de que a Calculadora de Finanças Pessoais é uma ferramenta de simulação e planejamento. Sempre consulte profissionais financeiros antes de tomar decisões financeiras importantes. Use esta calculadora como um guia para entender melhor suas finanças e definir metas realistas para seu futuro financeiro.
