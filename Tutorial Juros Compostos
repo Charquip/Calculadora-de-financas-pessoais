@@ -1,0 +1,43 @@
+Calculadora de Juros Compostos com Contribuições Mensais
+
+Bem-vindo ao projeto da Calculadora de Juros Compostos com Contribuições Mensais! Esta é uma ferramenta simples e poderosa para calcular o crescimento do seu dinheiro ao longo do tempo usando o conceito de juros compostos, incluindo contribuições mensais.
+
+Como Funciona:
+
+A Calculadora permite que você simule o crescimento do seu dinheiro com base em um valor principal, taxa de juros mensal e contribuições mensais regulares. Ela calcula o montante final após um determinado número de meses, levando em consideração os juros compostos acumulados e as contribuições mensais.
+
+Passos para Usar a Calculadora:
+
+Digite os Valores Iniciais:
+
+Informe o valor principal inicial (a quantia que você começa com).
+Digite a taxa de juros mensal em porcentagem (por exemplo, 5 para 5%).
+Insira o número de períodos (meses) que deseja calcular.
+Contribuições Mensais:
+
+Indique o valor que você planeja contribuir regularmente a cada período.
+Observe os Resultados:
+
+A calculadora fornecerá o montante total após o período especificado.
+Também mostrará a quantia total de contribuições que você fez.
+Além disso, você verá a quantidade de juros acumulados ao longo do tempo.
+Exemplo:
+
+Suponha que você tenha um valor principal de R$ 1.000, uma taxa de juros mensal de 0.5% e queira calcular o crescimento ao longo de 5 anos (60 meses) com uma contribuição mensal de R$ 100.
+
+Resultados:
+
+Montante após 5 anos: R$ 8.325.85
+Total de contribuições: R$ 6.000.00
+Juros acumulados: R$ 1.325.85
+Executando o Programa:
+
+Certifique-se de ter o Python instalado no seu sistema.
+Baixe ou copie e cole este repositório.
+Abra o arquivo Juros Compostos.py em um ambiente Python, como o IDLE.
+Siga as instruções exibidas no terminal para inserir os valores necessários.
+Observe os resultados exibidos na tela.
+Aproveite a Calculadora de Juros Compostos com Contribuições Mensais para planejar e visualizar o crescimento dos seus investimentos ao longo do tempo!
+
+Nota:
+Este projeto é uma implementação básica de uma calculadora de juros compostos com contribuições mensais. Sinta-se à vontade para expandi-lo, adicionar recursos adicionais ou aprimorar a interface do usuário de acordo com suas necessidades. Além disso, não se esqueça de considerar as implicações financeiras reais antes de tomar decisões baseadas nos resultados da calculadora.
